@@ -38,4 +38,4 @@ def circulate():
 
 
 ## Result:
-THUS THE CODE SUCCESSFULLY EXECUTED.
+Thus the program executed successfully
