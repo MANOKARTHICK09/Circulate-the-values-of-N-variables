@@ -24,6 +24,8 @@ Print both the values it would be interchanged
 End the program
 ## Program:
 ```
+Developed by:MANO KARTHICK S
+Register number:212222230077
 def circulate():
     l=eval(input())
     n=int(input())
@@ -32,7 +34,7 @@ def circulate():
 ```
 
 ## Output:
-![Screenshot 2024-03-22 152249](https://github.com/MANOKARTHICK09/Circulate-the-values-of-N-variables/assets/121785458/7d8a5e93-61cd-4447-9a22-8bdc27bf6f78)
+![image](https://github.com/MANOKARTHICK09/Circulate-the-values-of-N-variables/assets/121785458/edbcc018-d9d0-4616-8acf-fc73797b0f82)
 
 
 ## Result:
